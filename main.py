@@ -2,6 +2,8 @@
 
 def main(msg):
     // new comment
-    print(msg)
-
+   // print a message 
+   print(msg)
+ 
 main("Hello world")
+
