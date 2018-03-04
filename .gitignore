@@ -1,0 +1,5 @@
+.idea/workspace.xml
+venv/bin
+venv/include
+venv/lib
+venv/pip-selfcheck.json
